@@ -1,14 +1,13 @@
 # 🐕📱 Dogli App
 
  ## 📱 App Preview
- <div style="display: flex; gap: 10px">
-    <!-- <img src="./Dogli.Client/assets/screenshots/WelcomeToDogliScreen1.png" width="150" alt="Welcome Screen 1"> -->
-    <img src="./Dogli.Client/assets/screenshots/WelcomeToDogliScreen2.png" width="160" alt="Welcome Screen 2">
-    <img src="./Dogli.Client/assets/screenshots/HomeScreen1.png" width="160" alt="Home Screen">
-    <img src="./Dogli.Client/assets/screenshots/ParkFinderScreen.png" width="160" alt="Park Finder Screen">
-    <img src="./Dogli.Client/assets/screenshots/ParkProfileScreen.png" width="160" alt="Park Profile Screen">
-    <img src="./Dogli.Client/assets/screenshots/ParkVisitorScreen- statistics section.png" width="160" alt="Parks Visitor Screen">
-    <img src="./Dogli.Client/assets/screenshots/ParksMapScreen.png" width="160" alt="Parks Map Screen">
+ <div style="overflow-x: auto; white-space: nowrap; background: #F8F9FA; border-radius: 10px; padding: 15px; margin: 10px 0;">
+    <img src="./Dogli.Client/assets/screenshots/WelcomeToDogliScreen2.png" width="160" alt="Welcome Screen 2" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="./Dogli.Client/assets/screenshots/HomeScreen1.png" width="160" alt="Home Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="./Dogli.Client/assets/screenshots/ParkFinderScreen.png" width="160" alt="Park Finder Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="./Dogli.Client/assets/screenshots/ParkProfileScreen.png" width="160" alt="Park Profile Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="./Dogli.Client/assets/screenshots/ParkVisitorScreen- statistics section.png" width="160" alt="Parks Visitor Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="./Dogli.Client/assets/screenshots/ParksMapScreen.png" width="160" alt="Parks Map Screen" style="display: inline-block; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
  ## 🛠️ Tech Stack
