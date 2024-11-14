@@ -1,18 +1,36 @@
-## Project Structure
+# 🐕📱 Dogli App
 
-### **Dogli.Api**
+## 🛠️ Tech Stack
+
+  ### Backend
+
+   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+   [![.NET](https://img.shields.io/badge/.NET%208-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+  ### Frontend
+
+   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+   [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+   [![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCA28)](https://firebase.google.com/)
+<br>
+<br>
+
+## 🏗️ Project Structure
+
+### 🗂️ **Dogli.Api**
 
 - [Program.cs](./Dogli.Api/Program.cs)<br>
 - [appsettings.json](Dogli.Api/appsettings.json)<br>
-- #### **Controllers**
+- #### 📂 **Controllers**
   - [DogsController.cs](./Dogli.Api/Controllers/DogsController.cs)<br>
   - [ParksController.cs](./Dogli.Api/Controllers/ParksController.cs)<br>
   - [ReviewsController.cs](./Dogli.Api/Controllers/ReviewsController.cs)<br>
   - [UsersController.cs](./Dogli.Api/Controllers/UsersController.cs)<br>
-- #### **Enums**
+- #### 📂 **Enums**
   - [CheckInResult.cs](./Dogli.Api/Enums/CheckInResult.cs)<br>
   - [ParkSize.cs](./Dogli.Api/Enums/ParkSize.cs)<br>
-- #### **Extensions**
+- #### 📂 **Extensions**
 
   - [Encryptor.cs](./Dogli.Api/Extensions/Encryptor.cs)<br>
   - [ExceptionHandlingMiddleware.cs](./Dogli.Api/Extensions/ExceptionHandlingMiddleware.cs)<br>
@@ -20,7 +38,7 @@
   - [ResultExtensions.cs](./Dogli.Api/Extensions/ResultExtensions.cs)<br>
   - [SwaggerExampleSchemaFilter.cs](./Dogli.Api/Extensions/SwaggerExampleSchemaFilter.cs)<br>
 
-- #### **Models**
+- #### 📂 **Models**
 
   - ##### DTOs
 
@@ -40,11 +58,11 @@
   - [Review.cs](./Dogli.Api/Models/Review.cs)<br>
   - [User.cs](./Dogli.Api/Models/User.cs)<br>
 
-- #### **AutoMapper**
+- #### 📂 **AutoMapper**
 
   - [UserProfileMapping.cs](./Dogli.Api/AutoMapper/UserProfileMapping.cs)<br>
 
-- #### **Repositories**
+- #### 📂 **Repositories**
 
   - ##### Interfaces
     - [ICheckInRepository.cs](./Dogli.Api/Repositories/Interfaces/ICheckInRepository.cs)<br>
@@ -58,7 +76,7 @@
   - [ReviewRepository.cs](./Dogli.Api/Repositories/ReviewRepository.cs)<br>
   - [UserRepository.cs](./Dogli.Api/Repositories/UserRepository.cs)<br>
 
-- #### **Services**
+- #### 📂 **Services**
 
   - ##### Interfaces
     - [IDogService.cs](./Dogli.Api/Services/Interfaces/IDogService.cs)<br>
@@ -74,12 +92,12 @@
   - [ReviewService.cs](./Dogli.Api/Services/ReviewService.cs)<br>
   - [UserService.cs](./Dogli.Api/Services/UserService.cs)<br>
 
-- #### **Utils**
+- #### 📂 **Utils**
 
   - ##### DogUtils
     - [DogErrors.cs](./Dogli.Api/Utils/DogUtils/DogErrors.cs)<br>
 
-- #### **Validators**
+- #### 📂 **Validators**
   - [CustomValidators.cs](./Dogli.Api/Validators/CustomValidators.cs)<br>
   - [DogValidator.cs](./Dogli.Api/Validators/DogValidator.cs)<br>
   - [ParkValidator.cs](./Dogli.Api/Validators/ParkValidator.cs)<br>
