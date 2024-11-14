@@ -1,5 +1,16 @@
 # 🐕📱 Dogli App
 
+ ## 📱 App Preview
+ <div style="display: flex; gap: 10px">
+    <!-- <img src="./Dogli.Client/assets/screenshots/WelcomeToDogliScreen1.png" width="150" alt="Welcome Screen 1"> -->
+    <img src="./Dogli.Client/assets/screenshots/WelcomeToDogliScreen2.png" width="160" alt="Welcome Screen 2">
+    <img src="./Dogli.Client/assets/screenshots/HomeScreen1.png" width="160" alt="Home Screen">
+    <img src="./Dogli.Client/assets/screenshots/ParkFinderScreen.png" width="160" alt="Park Finder Screen">
+    <img src="./Dogli.Client/assets/screenshots/ParkProfileScreen.png" width="160" alt="Park Profile Screen">
+    <img src="./Dogli.Client/assets/screenshots/ParkVisitorScreen- statistics section.png" width="160" alt="Parks Visitor Screen">
+    <img src="./Dogli.Client/assets/screenshots/ParksMapScreen.png" width="160" alt="Parks Map Screen">
+</div>
+
  ## 🛠️ Tech Stack
 
  - ### Backend ⚙️
