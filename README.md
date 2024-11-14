@@ -1,14 +1,14 @@
 # 🐕📱 Dogli App
 
-## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
-  ### Backend
+ - ### Backend ⚙️
 
    [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
    [![.NET](https://img.shields.io/badge/.NET%208-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
    [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-  ### Frontend
+ - ### Frontend 📱
 
    [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
    [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
@@ -16,9 +16,9 @@
 <br>
 <br>
 
-## 🏗️ Project Structure
+ ## 🏗️ Project Structure (server-side)
 
-### 🗂️ **Dogli.Api**
+  ### 🗂️ **Dogli.Api**
 
 - [Program.cs](./Dogli.Api/Program.cs)<br>
 - [appsettings.json](Dogli.Api/appsettings.json)<br>
