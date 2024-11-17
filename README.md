@@ -7,7 +7,9 @@
     <img src="./Dogli.Client/assets/screenshots/ParkFinderScreen.png" width="160" alt="Park Finder Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <img src="./Dogli.Client/assets/screenshots/ParkProfileScreen.png" width="160" alt="Park Profile Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <img src="./Dogli.Client/assets/screenshots/ParkVisitorScreen- statistics section.png" width="160" alt="Parks Visitor Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="./Dogli.Client/assets/screenshots/ParkReviewsScreen- add review.png" width="160" alt="Parks Reviews Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <img src="./Dogli.Client/assets/screenshots/ParksMapScreen.png" width="160" alt="Parks Map Screen" style="display: inline-block; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="./Dogli.Client/assets/screenshots/CheckInScreen.png" width="160" alt="Check In Screen" style="display: inline-block; margin-right: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
  ## 🛠️ Tech Stack
